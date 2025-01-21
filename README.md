@@ -28,7 +28,7 @@ The frameworks and tools used to build out these projects were carefully selecte
 Navigate to a folder in your local environment and copy/paste the following commands into your terminal:
 
 ```
-  git clone [YOUR_FORKED_REPO_URL]
+  git clone gh repo clone Moses-main/solana-frontend-development-prereq-q1y25
   cd solana-frontend-development-course
   nvm install 20
   nvm use 20
